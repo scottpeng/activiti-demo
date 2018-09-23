@@ -12,7 +12,7 @@
    act_re_ 流程存储表，re是repository的缩写，对应RepositoryService接口，存储流程部署和流程定义等静态数据<Br/>
    act_ru_ 运行时数据表，ru是runtime的缩写，对应RuntimeService接口和TaskService接口，存储流程实例和用户任务等动态数据<Br/>
    
- 4.选择配置  
+ 4.demo配置流程图  
 
 
    
