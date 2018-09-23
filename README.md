@@ -13,6 +13,6 @@
    act_ru_ 运行时数据表，ru是runtime的缩写，对应RuntimeService接口和TaskService接口，存储流程实例和用户任务等动态数据<Br/>
    
  4.demo配置流程图  
-   https://github.com/scottpeng/activiti-demo/blob/master/src/main/resources/diagrams/demo/activitiSample.png
+   ![Image text](https://github.com/scottpeng/activiti-demo/blob/master/src/main/resources/diagrams/demo/activitiSample.png)
 
    
