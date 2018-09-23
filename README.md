@@ -5,7 +5,7 @@
 2. 导入Eclipse工具中需要添加bpmn的编辑器插件
      导入地址为： http://activiti.org/designer/update/
      
-3. activiti 表结构简单介绍<Br/>
+3. activiti 表结构简单介绍（Activiti6 有28张表）<Br/>
    act_ge_ 通用数据表，ge是general的缩写<Br/>
    act_hi_ 历史数据表，hi是history的缩写，对应HistoryService接口<Br/>
    act_id_ 身份数据表，id是identity的缩写，对应IdentityService接口<Br/>
